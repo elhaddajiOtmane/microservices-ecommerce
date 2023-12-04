@@ -14,3 +14,4 @@ client/api/build-client.js
 infra/k8s/client-depl.yaml
 .DS_Store
 .vscode
+
